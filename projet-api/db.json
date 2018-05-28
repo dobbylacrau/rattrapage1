@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "65b15ec1-80d5-4485-87d4-89bf649ed667",
+      "email": "e-mail",
+      "lastname": "Last Name",
+      "firstname": "First Name",
+      "channel": 0
+    },
+    {
+      "id": "e0c271ff-7a4a-4ebe-889e-7329efdf4709",
+      "email": "mail",
+      "lastname": "oui",
+      "firstname": "alex",
+      "channel": 5
+    }
+  ],
+  "message": [
+    {
+      "id": "8babd96e-afe6-481a-b9aa-33c26b745dd8",
+      "message": "Messages",
+      "firstname": "First Name"
+    },
+    {
+      "id": "9a279348-5fef-44ff-b329-e2fd0b211522",
+      "message": "Messages",
+      "firstname": " Name"
+    },
+    {
+      "id": "789e1c08-5355-4635-89a9-f3bb655520a1",
+      "message": "bonjour",
+      "firstname": " oui"
+    },
+    {
+      "id": "708514b3-eba7-464f-bbbb-3e07830c60fd",
+      "message": "Messages",
+      "firstname": "First Name"
+    }
+  ]
+}
